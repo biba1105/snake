@@ -111,3 +111,4 @@ def snakegame():
     time.delay(40)
     score.update()
 snakegame()
+c
